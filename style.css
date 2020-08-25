@@ -40,6 +40,14 @@ ol {
     display: block;
   }
 
+  iframe {
+    width: 95%;
+  }
+
+  img {
+    width: 95%;
+  }
+
   ol {
     border-right: none;
   }
